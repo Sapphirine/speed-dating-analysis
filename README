@@ -1,5 +1,4 @@
-Merry Christmas! 
-(:
+
 
 You might need to install mlxtend:
 conda install mlxtend --channel conda-forge
